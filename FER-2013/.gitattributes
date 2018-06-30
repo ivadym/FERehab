@@ -1,0 +1,7 @@
+fer2013_train.csv filter=lfs diff=lfs merge=lfs -text
+fer2013_eval.csv filter=lfs diff=lfs merge=lfs -text
+fer2013_test.csv filter=lfs diff=lfs merge=lfs -text
+eval_neutral.npy filter=lfs diff=lfs merge=lfs -text
+train_disgust.npy filter=lfs diff=lfs merge=lfs -text
+train_neutral.npy filter=lfs diff=lfs merge=lfs -text
+eval_disgust.npy filter=lfs diff=lfs merge=lfs -text
