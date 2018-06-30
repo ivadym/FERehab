@@ -11,7 +11,7 @@ In this project, developed in **Python 2.7.2** and using the **Keras API**, the 
 
 ### Directory index
 
-- **Main directory**. It is composed of the Python Notebooks used to describe the models and deploy them in the Google Cloud Platform and the files they need to do so.
+- **src**. It is composed of the Python Notebooks used to describe the models and deploy them in the Google Cloud Platform.
 
 - **FER-2013**. It contains the set of images from the FER-2013 database used for training, validation and evaluation. This division follows the patterns stipulated in the challenge [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
 
