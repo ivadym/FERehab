@@ -27,7 +27,6 @@ In this project, developed in **Python 2.7.2** and using the **Keras API**, the 
 <div align='left'>
   <img src='demos/emotions.gif' width='400px'>
 </div>
-
 <div align='right'>
   <img src='demos/interface.gif' width='433px'>
 </div>
