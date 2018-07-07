@@ -23,10 +23,14 @@ In this project, developed in **Python 2.7.2** and using the **Keras API**, the 
 
 - **SmartMirror**. It contains a very simple interface developed to be used by a smart mirror. It also poses a game to the user who has to imitate the indicated facial expressions. The hits and failures, as well as the response time, are fed back to the user in real time. This development was made with **Python 3.6.4**.
 
-### Demos (FER in real time and the game interface)
+### Demos
+
+- **FER in real time**.
 <div align='left'>
   <img src='demos/emotions.gif' width='400px'>
 </div>
-<div align='right'>
+
+- **Game interface**.
+<div align='left'>
   <img src='demos/interface.gif' width='433px'>
 </div>
